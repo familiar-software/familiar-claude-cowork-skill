@@ -1,0 +1,9 @@
+{
+  "name": "familiar",
+  "version": "0.1.0",
+  "description": "Locate, interpret, and filter the user's past behavior from Familiar stills markdown.",
+  "author": {
+    "name": "Familiar"
+  },
+  "repository": "https://github.com/familiar-software/familiar-cowork-skill"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Familiar Plugins",
+  "owner": {
+    "name": "Familiar",
+    "github": "familiar-software"
+  },
+  "plugins": [
+    {
+      "name": "familiar",
+      "source": "./",
+      "description": "Familiar skill for Claude Code/Corework",
+      "version": "0.1.0"
+    }
+  ]
+}
