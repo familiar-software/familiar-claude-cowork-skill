@@ -13,6 +13,7 @@ These files are already preprocessed with a stable structure and are optimized f
 ## Locate The Data
 
 1. Search for a folder named "stills-markdown" that is located inside the folder "familiar"
+  - if multiple folders were found, ask the user which one to use before continuing
 3. If no path can be resolved, ask the user for the context folder location.
 4. Stills markdown root is `<contextFolderPath>/familiar/stills-markdown`.
 
