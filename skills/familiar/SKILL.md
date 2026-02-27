@@ -12,11 +12,10 @@ These files are already preprocessed with a stable structure and are optimized f
 
 ## Locate The Data
 
-1. Use a provided `contextFolderPath` if available.
-2. Otherwise use `FAMILIAR_CONTEXT_FOLDER` when set.
-3. Otherwise read `~/.familiar/settings.json` and use `contextFolderPath`.
-4. If no path can be resolved, ask the user for the context folder location.
-5. Stills markdown root is `<contextFolderPath>/familiar/stills-markdown`.
+1. Otherwise read `~/.familiar/settings.json` and use `contextFolderPath`.
+2. Otherwise search for a folder named "stills-markdown" that is located inside the folder "familiar"
+3. If no path can be resolved, ask the user for the context folder location.
+4. Stills markdown root is `<contextFolderPath>/familiar/stills-markdown`.
 
 ## Directory Structure
 
